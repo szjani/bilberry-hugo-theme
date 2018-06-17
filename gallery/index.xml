@@ -1,9 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
+<<<<<<< HEAD
     <title>My cool new Blog</title>
     <link>https://lednerb.github.io/bilberry-hugo-theme/gallery/</link>
     <description>Recent content on My cool new Blog</description>
+=======
+    <title>Galleries on My cool new Blog</title>
+    <link>https://lednerb.github.io/bilberry-hugo-theme/gallery/</link>
+    <description>Recent content in Galleries on My cool new Blog</description>
+>>>>>>> cabda9d132a70a95bef87067cce4c1a327df2944
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Wed, 01 Nov 2017 18:01:26 +0100</lastBuildDate>
     

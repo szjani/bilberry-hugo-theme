@@ -5,10 +5,19 @@
     <link>https://lednerb.github.io/bilberry-hugo-theme/de/tags/</link>
     <description>Recent content in Tags on Mein cooler neuer Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 01 Nov 2017 18:01:26 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 01 Nov 2017 18:10:14 +0100</lastBuildDate>
     
 	<atom:link href="https://lednerb.github.io/bilberry-hugo-theme/de/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Discord</title>
+      <link>https://lednerb.github.io/bilberry-hugo-theme/de/tags/discord/</link>
+      <pubDate>Wed, 01 Nov 2017 18:10:14 +0100</pubDate>
+      
+      <guid>https://lednerb.github.io/bilberry-hugo-theme/de/tags/discord/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Eilean Donan Castle</title>
@@ -16,15 +25,6 @@
       <pubDate>Wed, 01 Nov 2017 18:01:26 +0100</pubDate>
       
       <guid>https://lednerb.github.io/bilberry-hugo-theme/de/tags/eilean-donan-castle/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Einkommen</title>
-      <link>https://lednerb.github.io/bilberry-hugo-theme/de/tags/einkommen/</link>
-      <pubDate>Wed, 01 Nov 2017 18:10:14 +0100</pubDate>
-      
-      <guid>https://lednerb.github.io/bilberry-hugo-theme/de/tags/einkommen/</guid>
       <description></description>
     </item>
     
@@ -43,15 +43,6 @@
       <pubDate>Wed, 01 Nov 2017 16:23:40 +0100</pubDate>
       
       <guid>https://lednerb.github.io/bilberry-hugo-theme/de/tags/kilez-more/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Patreon</title>
-      <link>https://lednerb.github.io/bilberry-hugo-theme/de/tags/patreon/</link>
-      <pubDate>Wed, 01 Nov 2017 18:10:14 +0100</pubDate>
-      
-      <guid>https://lednerb.github.io/bilberry-hugo-theme/de/tags/patreon/</guid>
       <description></description>
     </item>
     
@@ -88,15 +79,6 @@
       <pubDate>Wed, 01 Nov 2017 16:12:47 +0100</pubDate>
       
       <guid>https://lednerb.github.io/bilberry-hugo-theme/de/tags/truth-rap/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Überleben</title>
-      <link>https://lednerb.github.io/bilberry-hugo-theme/de/tags/%C3%BCberleben/</link>
-      <pubDate>Wed, 01 Nov 2017 18:10:14 +0100</pubDate>
-      
-      <guid>https://lednerb.github.io/bilberry-hugo-theme/de/tags/%C3%BCberleben/</guid>
       <description></description>
     </item>
     

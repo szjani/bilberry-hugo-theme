@@ -8,17 +8,17 @@
   </url>
   
   <url>
-    <loc>https://lednerb.github.io/bilberry-hugo-theme/de/article/support-me-and-this-theme/</loc>
+    <loc>https://lednerb.github.io/bilberry-hugo-theme/de/article/support-and-discussions/</loc>
     <lastmod>2017-11-01T18:10:14+01:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://lednerb.github.io/bilberry-hugo-theme/article/support-me-and-this-theme/"
+                href="https://lednerb.github.io/bilberry-hugo-theme/article/support-and-discussions/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="de"
-                href="https://lednerb.github.io/bilberry-hugo-theme/de/article/support-me-and-this-theme/"
+                href="https://lednerb.github.io/bilberry-hugo-theme/de/article/support-and-discussions/"
                 />
   </url>
   
@@ -167,6 +167,22 @@
   </url>
   
   <url>
+    <loc>https://lednerb.github.io/bilberry-hugo-theme/de/tags/discord/</loc>
+    <lastmod>2017-11-01T18:10:14+01:00</lastmod>
+    <priority>0</priority>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://lednerb.github.io/bilberry-hugo-theme/tags/discord/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="de"
+                href="https://lednerb.github.io/bilberry-hugo-theme/de/tags/discord/"
+                />
+  </url>
+  
+  <url>
     <loc>https://lednerb.github.io/bilberry-hugo-theme/de/tags/eilean-donan-castle/</loc>
     <lastmod>2017-11-01T18:01:26+01:00</lastmod>
     <priority>0</priority>
@@ -180,12 +196,6 @@
                 hreflang="de"
                 href="https://lednerb.github.io/bilberry-hugo-theme/de/tags/eilean-donan-castle/"
                 />
-  </url>
-  
-  <url>
-    <loc>https://lednerb.github.io/bilberry-hugo-theme/de/tags/einkommen/</loc>
-    <lastmod>2017-11-01T18:10:14+01:00</lastmod>
-    <priority>0</priority>
   </url>
   
   <url>
@@ -281,22 +291,6 @@
   </url>
   
   <url>
-    <loc>https://lednerb.github.io/bilberry-hugo-theme/de/tags/patreon/</loc>
-    <lastmod>2017-11-01T18:10:14+01:00</lastmod>
-    <priority>0</priority>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://lednerb.github.io/bilberry-hugo-theme/tags/patreon/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="de"
-                href="https://lednerb.github.io/bilberry-hugo-theme/de/tags/patreon/"
-                />
-  </url>
-  
-  <url>
     <loc>https://lednerb.github.io/bilberry-hugo-theme/de/categories/politik/</loc>
     <lastmod>2017-11-01T16:23:40+01:00</lastmod>
     <priority>0</priority>
@@ -354,7 +348,7 @@
   
   <url>
     <loc>https://lednerb.github.io/bilberry-hugo-theme/de/tags/</loc>
-    <lastmod>2017-11-01T18:01:26+01:00</lastmod>
+    <lastmod>2017-11-01T18:10:14+01:00</lastmod>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
@@ -425,12 +419,6 @@
   <url>
     <loc>https://lednerb.github.io/bilberry-hugo-theme/de/categories/zitate/</loc>
     <lastmod>2017-12-01T14:40:32+01:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://lednerb.github.io/bilberry-hugo-theme/de/tags/%C3%BCberleben/</loc>
-    <lastmod>2017-11-01T18:10:14+01:00</lastmod>
     <priority>0</priority>
   </url>
   
